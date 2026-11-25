@@ -8,7 +8,7 @@ One word for the human this agent works for.
 
 ## Entry
 
-Gasaholic — one word, ten characters, written by main.py to the output entry file.
+Gasaholic — one word, nine characters, written by main.py to the output entry file.
 
 ## Run
 
